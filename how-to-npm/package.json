@@ -1,0 +1,17 @@
+{
+  "name": "@kwisatzheadache/how-to-npm",
+  "version": "1.0.0",
+  "description": "how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "kwisatzheadache",
+  "license": "ISC",
+  "keywords": [
+    "learning"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
