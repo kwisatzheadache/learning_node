@@ -1,6 +1,6 @@
 {
   "name": "@kwisatzheadache/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "how-to-npm",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "author": "kwisatzheadache",
   "license": "ISC",
+  "repository": "https://github.com/kwisatzheadache/learning_node/tree/master/how-to-npm",
   "keywords": [
     "learning"
   ],
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
   }
 }
